@@ -52,12 +52,12 @@
 ## Demo
 
 ### Start
-<p align="center>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/77234053/188352762-bf4c6aba-0e8c-4371-8972-2639e00e78b5.gif">
-  <img src="https://user-images.githubusercontent.com/77234053/188353007-14e3844b-3311-41f1-9ed1-c48413ec5e7e.jpg">
+  <img src="https://user-images.githubusercontent.com/77234053/188353007-14e3844b-3311-41f1-9ed1-c48413ec5e7e.jpg"> 
   </p>
-  
-  
+
+                                                                                                                  
 ### Pause
 <p>
   <img src="">
