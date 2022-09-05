@@ -60,8 +60,8 @@
 
                                                                                                                   
 ### Pause
-<p >
-  <img src="">
+<p align="center" >
+  <img src="https://user-images.githubusercontent.com/77234053/188354410-a7cd7405-99cf-484d-8b4d-b60ec8763541.gif">
   </p>
   
 ### Resume
