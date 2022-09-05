@@ -30,6 +30,19 @@
 <p><strong>step 1</strong> open Arduino IDE choose File->Preferences->make ✔ on check compilation then click <strong>OK</strong>  </p>
 <p><strong>step 2</strong> press on Verify button to compile project and there are compilation window in below when compilation Done in this window go to line number six and at the end of this line there are file end with hex extension like"C:\\Users\\20112\\AppData\\Local\\Temp\\arduino_build_626863/Stopwatch.ino.hex" then take this path to reach file "C:\Users\20112\AppData\Local\Temp\arduino_build_626863" then take hex file in any path you want to can use it in Proteus </p>
 
+## Schematic
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77234053/188349965-08d09d14-1f8f-47c7-8ebe-a00878ab6e94.png">
+</p>
+### Main Component
+- Arduino UNO
+- led
+- buzzer
+- button
+- lcd 16*2
+- NPN (switch)
+- PCF8574
+- resistor
 
 
 
