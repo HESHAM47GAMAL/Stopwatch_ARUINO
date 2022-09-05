@@ -70,8 +70,8 @@
   </p>
 
 ### Reset
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77234053/188356683-901a061d-a68f-4742-b08c-41fee19ba342.gif">
   </p>
 
 
