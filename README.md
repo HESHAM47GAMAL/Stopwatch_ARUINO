@@ -65,8 +65,8 @@
   </p>
   
 ### Resume
-<p>
-  <img src="">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77234053/188354836-c11421ef-4528-433a-a661-9e0fe0fcfc73.gif">
   </p>
 
 ### Reset
