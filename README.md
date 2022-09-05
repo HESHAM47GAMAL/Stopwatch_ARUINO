@@ -9,5 +9,9 @@
 
 ## Description
 <p>This is Stopwatch system simulate stopwatch in mobile </p>
-<p>when open simulation stopwatch start count when press 🖱️ <strong>Start_Resume_BUTTON</strong></p>
+<p>⚡when open simulation stopwatch start count when press 🖱️ <strong>Start_Resume_BUTTON</strong> </p>
+<p>⚡counting will continue until press 🖱️ <strong>Pause_BUTTON</strong> this will stop counting and there are <strong>two option</strong></p>
+<p>⚡<strong>Option 1</strong> return to continue counting from last value Stopwatch reach by press 🖱️ <strong>Pause_BUTTON</strong> </p>
+<p>⚡<strong>Option 2</strong> reset value for Stopwatch  by press 🖱️ <strong>Reset_BUTTON</strong> and to restart count press 🖱️ <strong>Start_Resume_BUTTON</strong></p>
+<p>⚡every time count one minute  system give Alarm🔔</p>
 
