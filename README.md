@@ -19,4 +19,12 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/77234053/188345725-2234f5c1-e31e-4d01-b216-1e40f3856523.png">
   </p>
+  
+## IDE
+<p>IDE are Arduino & Proteus</p>
+<P>⚡Arduino for write code </p>
+<p>⚡Proteus for simulate project</p>
+
+
+
 
