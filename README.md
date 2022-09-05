@@ -15,3 +15,8 @@
 <p>⚡<strong>Option 2</strong> reset value for Stopwatch  by press 🖱️ <strong>Reset_BUTTON</strong> and to restart count press 🖱️ <strong>Start_Resume_BUTTON</strong></p>
 <p>⚡every time count one minute  system give Alarm🔔</p>
 
+##System Flowchart
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/77234053/188345725-2234f5c1-e31e-4d01-b216-1e40f3856523.png">
+  </p>
+
