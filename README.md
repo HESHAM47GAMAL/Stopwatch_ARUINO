@@ -9,5 +9,5 @@
 
 ## Description
 <p>This is Stopwatch system simulate stopwatch in mobile </p>
-<p>when open simulation stopwatch start count when press <strong>Start_Resume_BUTTON</strong></p>
+<p>when open simulation stopwatch start count when press 🖱️ <strong>Start_Resume_BUTTON</strong></p>
 
